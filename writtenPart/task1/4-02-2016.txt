@@ -14,8 +14,8 @@ ________________
 
 The chart shows the number of male and female graduates per year in Canada from 1992 to 2007.
 
-At first sight it is clear that there’s a big gap between male and female statistics even if they are correlated, moreover, the number of graduates is quickly increasing with time and will probably face further increments.
+At first sight it is clear that there’s a big gap between male and female statistics even though they are correlated. Moreover, the number of graduates in the given years increased quickly with time and has likely faced further increments afterwards.
 
-A closer look shows that at the beginning of 1992 males outnumber females with around 40% more graduates while, in 2007, the rate goes up to roughly 70%. Furthermore, in 2007 male graduates were a bit less than 150.000, way more than in 1992. The growth trend between 2001 and 2007 is quite remarkable and looks substantially different from the past ones which, in contrast, where more stable.
+A closer look shows that at the beginning of 1992 males outnumber females with around 40% more graduates while, in 2007, the rate goes up to roughly 70%. Furthermore, in 2007 male graduates were a bit less than 150.000, way more than in 1992 when there were 100.000 of them. The growth trend between 2001 and 2007 is quite remarkable and looks substantially different from the past ones which, in contrast, where more stable.
 
-In summary, the number of graduates in Canada is increasing even if not homogeneously with respect to the gender. In my opinion this trend is probably a direct consequence of an increasing country’s wealth and is eventually going to stabilize itself again in the coming years.
+In summary, the number of graduates in Canada is increasing although not homogeneously with respect to the gender. In my opinion this trend is probably a direct consequence of the country’s wealth increase and is eventually going to stabilize in the coming years.
