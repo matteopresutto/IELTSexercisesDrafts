@@ -1,0 +1,37 @@
+#######################################################
+#
+#  Exercise Source: Complete IELTS - Bands 6.5-7.5
+#                   by Guy Brook-Hart and Vanessa
+#                   Jakeman
+#  Solution Author: Matteo Presutto
+#
+#######################################################
+
+TASK TEXT
+
+The graph below shows  the percentage change in the number of international students graduating from universities in different Canadian provinces between 2001 and 2006.
+Summarize the information by selecting and reporting the main features and make comparisons where relevant.
+
+
+// Chart omitted for copyright purposes, available at page 17 of the source (see the header)
+
+________________
+
+key points
+
+- Every province faced an increase, with most of them doubling.
+- British Columbia changed the most.
+- Alberta is the only one that changed negatively.
+- New Brunswick topped in both 2001 and 2006.
+- Alberta is the lowest one in 2006 while Ontario is the lowest in 2001.
+________________
+
+SOLUTION
+
+The given chart shows the percentage change of the number of international Canadians graduating students per province between 2001 and 2006.
+
+A quick view to the chart shows that almost every province faced an increase in international students graduates. Most of the provinces were close to doubling their 2001 statistic in the 2006 reportage.
+
+Comparing the chart with respect to time it is possible to assert that the British Columbia university is the one that changed the most between 2001 and 2006 over doubling its 2001 statistic. Furthermore, Alberta is the only one whose percentage change slowed down in 2006, in addition, it was Ontario to have the lowest change among provinces until, in 2006, Alberta took its place. New Brunswick tops in both 2001 and 2006 stats closely followed by Nova Scotia.
+
+In summary, it is evident that Canadian Universities are experiencing an increase in international graduate students applications, probably thanks to their growing research aimed academic importance.
