@@ -7,28 +7,32 @@
 #
 #######################################################
 
-TASK TEXT
+============================= QUESTION ==============================
 
-The graph below shows  the percentage change in the number of international students graduating from universities in different Canadian provinces between 2001 and 2006.
-Summarize the information by selecting and reporting the main features and make comparisons where relevant.
+The graph below shows  the percentage change in the number of
+international students graduating from universities in different
+Canadian provinces between 2001 and 2006.
 
-
-// Chart omitted for copyright purposes, available at page 17 of the source (see the header)
-
-________________
-
-key points
+Summarize the information by selecting and reporting the main
+features and make comparisons where relevant.
+ ____________________________________________________________________
+|IMG CONTENT:                                                        |
+|http://www.ielts-exam.net/images/graphs/IELTS_Writing_Task_1_146.png|
+|____________________________________________________________________|
+============================ KEY POINTS =============================
 
 - Every province faced an increase, with most of them doubling.
 - British Columbia changed the most.
 - Alberta is the only one that changed negatively.
 - New Brunswick topped in both 2001 and 2006.
-- Alberta is the lowest one in 2006 while Ontario is the lowest in 2001.
-________________
+- Alberta is the lowest one in 2006 while Ontario is the lowest in
+  2001.
 
-SOLUTION
+============================= SOLUTION ==============================
 
-The given chart shows the percentage change of the number of international Canadians graduating students per province between 2001 and 2006.
+The given chart shows the percentage change of the number of
+international Canadians graduating students per province between 2001
+and 2006.
 
 A quick view to the chart shows that almost every province faced an increase in international students graduates. Most of the provinces were close to doubling their 2001 statistic in the 2006 reportage.
 
